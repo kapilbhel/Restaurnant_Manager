@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "name": "prem chinese food",
+      "email": "prem@g.com",
+      "mobile": "54785236",
+      "address": "dhjhhd",
+      "service": "chilly potato"
+    },
+    {
+      "id": 5,
+      "name": "hghjfd",
+      "email": "hiha@gmail.com",
+      "mobile": "kjhjf",
+      "address": "or bhai",
+      "service": "papad vale"
+    }
+  ],
+  "Signup": [
+    {
+      "name": "kapu",
+      "email": "kapu@gmail.com",
+      "mobile": "9815255555",
+      "password": "kapu",
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
